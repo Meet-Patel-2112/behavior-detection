@@ -266,7 +266,7 @@ The repository includes pre-trained weights for immediate inference:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/Meet-117/behavior-detection.git
+git clone https://github.com/Meet-Patel-2112/behavior-detection.git
 cd behavior-detection
 ```
 
